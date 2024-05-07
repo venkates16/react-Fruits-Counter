@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg {
+  background: #ffff00d5;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img {
+  width: 50vw;
+}
+
+.card {
+  text-align: center;
+  background-color: white;
+  display:;
+}
+.align {
+  display: flex;
+  justify-content:;
+}
+button {
+  border: 1px solid blue;
+  background-color: rgb(250, 215, 236);
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+}
