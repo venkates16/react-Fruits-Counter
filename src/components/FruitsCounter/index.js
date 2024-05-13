@@ -13,6 +13,7 @@ class FruitsCounter extends Component {
   }
 
   render() {
+    
     const {banana, mango} = this.state
     return (
       <div className="bg">
